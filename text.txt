@@ -1,0 +1,16 @@
+todo lo escrito aqui es para el readme en la preparacion.
+
+titulo
+"Sales Analytics Pipeline con excel + VBA + SQL + Python"
+
+Que es ?
+
+Sales analitycs\ Analisis de Ventas
+
+Un analisis integral y dashboard interactivo de los datos de ventas para identificar tendencias de ingresos, rendimientos de productos y comportamientos de los clientes.
+
+Este proyecto analiza el rendimiento comercial de la empresa organizacion con el objetivo de responder preguntas clave sobre los ingresos, margenes de ganancias y oportunidades de crecimiento.
+
+Markdown: ![Dashboard Preview] (dashboards\Screenshot.png)
+
+generado por IA se puede modificar mas adelante para personalizarlo.
